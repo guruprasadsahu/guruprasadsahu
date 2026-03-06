@@ -27,7 +27,8 @@
 <a href="https://guruprasad-dev.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="guruprasadsahu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/guruprasadsahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guruprasadsahu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/guruprasadsahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="guruprasadsahu" height="30" width="40" /></a>
-<a href="https://g.dev/guruprasadsahu" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg]" alt="guruprasadsahu" height="30" width="40" /></a>
+<a href="https://unstop.com/u/GURUPRASAD9610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guruprasadsahu" height="30" width="40" /></a>
+<a href="https://g.dev/guruprasadsahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="guruprasadsahu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
