@@ -74,9 +74,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guruprasadsahu&" alt="guruprasadsahu" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guruprasadsahu&show_icons=true&locale=en&layout=compact" alt="guruprasadsahu" /> </p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guruprasadsahu&show_icons=true&locale=en&layout=compact" alt="guruprasadsahu" /> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=guruprasadsahu&show_icons=true&locale=en" alt="guruprasadsahu" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guruprasadsahu" alt="guruprasadsahu" /> </a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guruprasadsahu" alt="guruprasadsahu" /> </a> </p> -->
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
